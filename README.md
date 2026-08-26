@@ -2,4 +2,4 @@ Link tugas mandiri 1 'SISTEM NILAI MAHASISWA' LINK:  https://youtu.be/3v78BxPh_r
 
 
 
-Link tugas mandiri 2 'JUDUL' LINK:   https://youtu.be/Hnvbyc3wcvk
+Link tugas mandiri 2 'APLIKASI KATALOG BUKU PERPUS MINI' LINK:   https://youtu.be/Hnvbyc3wcvk
